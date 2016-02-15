@@ -12,15 +12,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.3.9",
-        "symfony/framework-bundle": "~2.2"
-    },
-    "require-dev": {
-        "symfony-cmf/testing": "1.1.*",
-        "sonata-project/doctrine-phpcr-admin-bundle": "1.0.*",
-        "symfony-cmf/core-bundle": "1.0.*"
-    },
     "suggest": {
         "sonata-project/doctrine-phpcr-admin-bundle": "For sonata administration"
     },
